@@ -1,9 +1,3 @@
-# Autores
-
-Iury Lamonie
-& 
-Leonardo Igor
-
 # 1. Introdução:
 
 Este projeto contém a implementação de dois dictionary Abstract Data Type (ADT) baseada em uma Array List.
